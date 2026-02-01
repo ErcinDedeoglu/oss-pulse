@@ -1,0 +1,2002 @@
+{
+  "generated_at": "2026-02-01 00:32",
+  "repo_count": 434,
+  "trending": [
+    {
+      "name": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "pattern": "viral",
+      "weekly_gain": 5032,
+      "total_stars": 21299,
+      "health_grade": "B+",
+      "language": "TypeScript",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "spike_info": {
+        "date": "2026-01-31",
+        "gain": 3851,
+        "multiplier": 0
+      }
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "pattern": "viral",
+      "weekly_gain": 3764,
+      "total_stars": 29052,
+      "health_grade": "C+",
+      "language": "JavaScript",
+      "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
+      "spike_info": {
+        "date": "2026-01-30",
+        "gain": 1045,
+        "multiplier": 30.1
+      }
+    },
+    {
+      "name": "code-yeongyu/oh-my-opencode",
+      "url": "https://github.com/code-yeongyu/oh-my-opencode",
+      "pattern": "viral",
+      "weekly_gain": 2772,
+      "total_stars": 26561,
+      "health_grade": "B",
+      "language": "TypeScript",
+      "description": "The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 694,
+        "multiplier": 0.6
+      }
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "pattern": "viral",
+      "weekly_gain": 1940,
+      "total_stars": 433946,
+      "health_grade": "B+",
+      "language": "\u2014",
+      "description": "\ud83d\ude0e Awesome lists about all kinds of interesting topics",
+      "spike_info": {
+        "date": "2026-01-31",
+        "gain": 486,
+        "multiplier": 1.2
+      }
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "pattern": "viral",
+      "weekly_gain": 1918,
+      "total_stars": 462512,
+      "health_grade": "D+",
+      "language": "Markdown",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "spike_info": {
+        "date": "2026-01-28",
+        "gain": 360,
+        "multiplier": 1.0
+      }
+    },
+    {
+      "name": "daytonaio/daytona",
+      "url": "https://github.com/daytonaio/daytona",
+      "pattern": "viral",
+      "weekly_gain": 1698,
+      "total_stars": 52083,
+      "health_grade": "B",
+      "language": "TypeScript",
+      "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+      "spike_info": {
+        "date": "2026-01-30",
+        "gain": 394,
+        "multiplier": 1.0
+      }
+    },
+    {
+      "name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "pattern": "viral",
+      "weekly_gain": 1556,
+      "total_stars": 66593,
+      "health_grade": "C",
+      "language": "Python",
+      "description": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
+      "spike_info": {
+        "date": "2026-01-29",
+        "gain": 319,
+        "multiplier": 1.4
+      }
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "pattern": "viral",
+      "weekly_gain": 1536,
+      "total_stars": 144923,
+      "health_grade": "C-",
+      "language": "HTML",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "spike_info": {
+        "date": "2026-02-01",
+        "gain": 308,
+        "multiplier": 0.7
+      }
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "pattern": "viral",
+      "weekly_gain": 1429,
+      "total_stars": 78756,
+      "health_grade": "A-",
+      "language": "TypeScript",
+      "description": "\ud83d\udd25 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
+      "spike_info": {
+        "date": "2026-01-31",
+        "gain": 251,
+        "multiplier": 1.2
+      }
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "pattern": "viral",
+      "weekly_gain": 1318,
+      "total_stars": 112365,
+      "health_grade": "A-",
+      "language": "\u2014",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "spike_info": {
+        "date": "2026-01-30",
+        "gain": 298,
+        "multiplier": 0.6
+      }
+    },
+    {
+      "name": "clash-verge-rev/clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "pattern": "viral",
+      "weekly_gain": 1172,
+      "total_stars": 95237,
+      "health_grade": "A-",
+      "language": "TypeScript",
+      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "spike_info": {
+        "date": "2026-01-28",
+        "gain": 216,
+        "multiplier": 0.8
+      }
+    },
+    {
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "pattern": "viral",
+      "weekly_gain": 1151,
+      "total_stars": 172359,
+      "health_grade": "A",
+      "language": "TypeScript",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "spike_info": {
+        "date": "2026-01-28",
+        "gain": 240,
+        "multiplier": 1.0
+      }
+    },
+    {
+      "name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "pattern": "viral",
+      "weekly_gain": 1123,
+      "total_stars": 394548,
+      "health_grade": "C+",
+      "language": "Python",
+      "description": "A collective list of free APIs",
+      "spike_info": {
+        "date": "2026-01-29",
+        "gain": 231,
+        "multiplier": 1.0
+      }
+    },
+    {
+      "name": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "pattern": "viral",
+      "weekly_gain": 1092,
+      "total_stars": 128261,
+      "health_grade": "A-",
+      "language": "TypeScript",
+      "description": "Production-ready platform for agentic workflow development.",
+      "spike_info": {
+        "date": "2026-01-29",
+        "gain": 280,
+        "multiplier": 2.3
+      }
+    },
+    {
+      "name": "yt-dlp/yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "pattern": "viral",
+      "weekly_gain": 1084,
+      "total_stars": 145165,
+      "health_grade": "B",
+      "language": "Python",
+      "description": "A feature-rich command-line audio/video downloader",
+      "spike_info": {
+        "date": "2026-01-30",
+        "gain": 235,
+        "multiplier": 0.9
+      }
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "pattern": "viral",
+      "weekly_gain": 962,
+      "total_stars": 270976,
+      "health_grade": "B",
+      "language": "\u2014",
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "spike_info": {
+        "date": "2026-01-28",
+        "gain": 195,
+        "multiplier": 0.8
+      }
+    },
+    {
+      "name": "vinta/awesome-python",
+      "url": "https://github.com/vinta/awesome-python",
+      "pattern": "viral",
+      "weekly_gain": 943,
+      "total_stars": 280831,
+      "health_grade": "B",
+      "language": "Python",
+      "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+      "spike_info": {
+        "date": "2026-01-29",
+        "gain": 166,
+        "multiplier": 1.0
+      }
+    },
+    {
+      "name": "trimstray/the-book-of-secret-knowledge",
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "pattern": "viral",
+      "weekly_gain": 773,
+      "total_stars": 204450,
+      "health_grade": "D",
+      "language": "\u2014",
+      "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "spike_info": {
+        "date": "2026-01-28",
+        "gain": 144,
+        "multiplier": 1.1
+      }
+    },
+    {
+      "name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "pattern": "viral",
+      "weekly_gain": 715,
+      "total_stars": 215917,
+      "health_grade": "B",
+      "language": "C",
+      "description": "Linux kernel source tree",
+      "spike_info": {
+        "date": "2026-01-30",
+        "gain": 145,
+        "multiplier": 1.1
+      }
+    },
+    {
+      "name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "pattern": "viral",
+      "weekly_gain": 701,
+      "total_stars": 45169,
+      "health_grade": "A+",
+      "language": "Python",
+      "description": "\u2b50AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.\ud83c\udfaf \u544a\u522b\u4fe1\u606f\u8fc7\u8f7d\uff0c\u4f60\u7684 AI \u8206\u60c5\u76d1\u63a7\u52a9\u624b\u4e0e\u70ed\u70b9\u7b5b\u9009\u5de5\u5177\uff01\u805a\u5408\u591a\u5e73\u53f0\u70ed\u70b9 +  RSS \u8ba2\u9605\uff0c\u652f\u6301\u5173\u952e\u8bcd\u7cbe\u51c6\u7b5b\u9009\u3002AI \u7ffb\u8bd1 +  AI \u5206\u6790\u7b80\u62a5\u76f4\u63a8\u624b\u673a\uff0c\u4e5f\u652f\u6301\u63a5\u5165 MCP \u67b6\u6784\uff0c\u8d4b\u80fd AI \u81ea\u7136\u8bed\u8a00\u5bf9\u8bdd\u5206\u6790\u3001\u60c5\u611f\u6d1e\u5bdf\u4e0e\u8d8b\u52bf\u9884\u6d4b\u7b49\u3002\u652f\u6301 Docker \uff0c\u6570\u636e\u672c\u5730/\u4e91\u7aef\u81ea\u6301\u3002\u96c6\u6210\u5fae\u4fe1/\u98de\u4e66/\u9489\u9489/Telegram/\u90ae\u4ef6/ntfy/bark/slack \u7b49\u6e20\u9053\u667a\u80fd\u63a8\u9001\u3002",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 206,
+        "multiplier": 1.0
+      }
+    },
+    {
+      "name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "pattern": "viral",
+      "weekly_gain": 696,
+      "total_stars": 161279,
+      "health_grade": "B",
+      "language": "Go",
+      "description": "Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "spike_info": {
+        "date": "2026-01-28",
+        "gain": 149,
+        "multiplier": 1.7
+      }
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "pattern": "viral",
+      "weekly_gain": 686,
+      "total_stars": 93172,
+      "health_grade": "B",
+      "language": "TypeScript",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 128,
+        "multiplier": 1.0
+      }
+    },
+    {
+      "name": "521xueweihan/HelloGitHub",
+      "url": "https://github.com/521xueweihan/HelloGitHub",
+      "pattern": "viral",
+      "weekly_gain": 673,
+      "total_stars": 141819,
+      "health_grade": "C",
+      "language": "Python",
+      "description": ":octocat: \u5206\u4eab GitHub \u4e0a\u6709\u8da3\u3001\u5165\u95e8\u7ea7\u7684\u5f00\u6e90\u9879\u76ee\u3002Share interesting, entry-level open source projects on GitHub.",
+      "spike_info": {
+        "date": "2026-01-29",
+        "gain": 152,
+        "multiplier": 1.5
+      }
+    },
+    {
+      "name": "massgravel/Microsoft-Activation-Scripts",
+      "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+      "pattern": "viral",
+      "weekly_gain": 649,
+      "total_stars": 164407,
+      "health_grade": "B+",
+      "language": "Batchfile",
+      "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 136,
+        "multiplier": 1.3
+      }
+    },
+    {
+      "name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "pattern": "viral",
+      "weekly_gain": 648,
+      "total_stars": 122512,
+      "health_grade": "A-",
+      "language": "Python",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "spike_info": {
+        "date": "2026-01-28",
+        "gain": 133,
+        "multiplier": 1.2
+      }
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "pattern": "viral",
+      "weekly_gain": 645,
+      "total_stars": 102070,
+      "health_grade": "B",
+      "language": "Python",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 125,
+        "multiplier": 1.1
+      }
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "pattern": "viral",
+      "weekly_gain": 645,
+      "total_stars": 257262,
+      "health_grade": "C-",
+      "language": "\u2014",
+      "description": "Curated list of project-based tutorials",
+      "spike_info": {
+        "date": "2026-01-29",
+        "gain": 151,
+        "multiplier": 1.8
+      }
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "pattern": "viral",
+      "weekly_gain": 637,
+      "total_stars": 333989,
+      "health_grade": "B-",
+      "language": "Python",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 125,
+        "multiplier": 1.2
+      }
+    },
+    {
+      "name": "docling-project/docling",
+      "url": "https://github.com/docling-project/docling",
+      "pattern": "viral",
+      "weekly_gain": 581,
+      "total_stars": 51668,
+      "health_grade": "B",
+      "language": "Python",
+      "description": "Get your documents ready for gen AI",
+      "spike_info": {
+        "date": "2026-01-30",
+        "gain": 115,
+        "multiplier": 1.0
+      }
+    },
+    {
+      "name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "pattern": "viral",
+      "weekly_gain": 580,
+      "total_stars": 110821,
+      "health_grade": "B",
+      "language": "TypeScript",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 172,
+        "multiplier": 2.0
+      }
+    },
+    {
+      "name": "2dust/v2rayN",
+      "url": "https://github.com/2dust/v2rayN",
+      "pattern": "fast",
+      "weekly_gain": 499,
+      "total_stars": 95894,
+      "health_grade": "A-",
+      "language": "C#",
+      "description": "A GUI client for Windows, Linux and macOS, support Xray and sing-box and others",
+      "spike_info": {
+        "date": "2026-01-31",
+        "gain": 95,
+        "multiplier": 1.0
+      }
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "pattern": "fast",
+      "weekly_gain": 481,
+      "total_stars": 125570,
+      "health_grade": "A-",
+      "language": "Python",
+      "description": "\ud83e\udd9c\ud83d\udd17 The platform for reliable agents.",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 88,
+        "multiplier": 1.0
+      }
+    },
+    {
+      "name": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "pattern": "fast",
+      "weekly_gain": 478,
+      "total_stars": 163918,
+      "health_grade": "B",
+      "language": "Go",
+      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 97,
+        "multiplier": 1.0
+      }
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "pattern": "fast",
+      "weekly_gain": 467,
+      "total_stars": 381516,
+      "health_grade": "A-",
+      "language": "Python",
+      "description": ":books: Freely available programming books",
+      "spike_info": {
+        "date": "2026-01-29",
+        "gain": 145,
+        "multiplier": 1.5
+      }
+    },
+    {
+      "name": "excalidraw/excalidraw",
+      "url": "https://github.com/excalidraw/excalidraw",
+      "pattern": "fast",
+      "weekly_gain": 448,
+      "total_stars": 115768,
+      "health_grade": "B",
+      "language": "TypeScript",
+      "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 88,
+        "multiplier": 1.0
+      }
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "url": "https://github.com/kamranahmedse/developer-roadmap",
+      "pattern": "fast",
+      "weekly_gain": 446,
+      "total_stars": 348365,
+      "health_grade": "A-",
+      "language": "TypeScript",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "spike_info": {
+        "date": "2026-01-29",
+        "gain": 99,
+        "multiplier": 1.5
+      }
+    },
+    {
+      "name": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "pattern": "fast",
+      "weekly_gain": 411,
+      "total_stars": 80077,
+      "health_grade": "B+",
+      "language": "\u2014",
+      "description": "A collection of MCP servers.",
+      "spike_info": {
+        "date": "2026-01-28",
+        "gain": 83,
+        "multiplier": 0.9
+      }
+    },
+    {
+      "name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "pattern": "fast",
+      "weekly_gain": 398,
+      "total_stars": 72511,
+      "health_grade": "B",
+      "language": "Python",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 96,
+        "multiplier": 1.5
+      }
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "url": "https://github.com/shadcn-ui/ui",
+      "pattern": "fast",
+      "weekly_gain": 392,
+      "total_stars": 105891,
+      "health_grade": "B",
+      "language": "TypeScript",
+      "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 90,
+        "multiplier": 1.1
+      }
+    },
+    {
+      "name": "Hack-with-Github/Awesome-Hacking",
+      "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+      "pattern": "fast",
+      "weekly_gain": 385,
+      "total_stars": 105746,
+      "health_grade": "D-",
+      "language": "\u2014",
+      "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 75,
+        "multiplier": 1.1
+      }
+    },
+    {
+      "name": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "pattern": "fast",
+      "weekly_gain": 378,
+      "total_stars": 46350,
+      "health_grade": "C+",
+      "language": "Python",
+      "description": "Universal memory layer for AI Agents",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 72,
+        "multiplier": 0.9
+      }
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "pattern": "fast",
+      "weekly_gain": 376,
+      "total_stars": 106661,
+      "health_grade": "A-",
+      "language": "Rust",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 92,
+        "multiplier": 1.5
+      }
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "pattern": "fast",
+      "weekly_gain": 359,
+      "total_stars": 128741,
+      "health_grade": "B-",
+      "language": "C#",
+      "description": "Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks",
+      "spike_info": {
+        "date": "2026-02-01",
+        "gain": 135,
+        "multiplier": 2.1
+      }
+    },
+    {
+      "name": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "pattern": "fast",
+      "weekly_gain": 343,
+      "total_stars": 27608,
+      "health_grade": "A-",
+      "language": "Jupyter Notebook",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 92,
+        "multiplier": 0.6
+      }
+    },
+    {
+      "name": "OpenBB-finance/OpenBB",
+      "url": "https://github.com/OpenBB-finance/OpenBB",
+      "pattern": "fast",
+      "weekly_gain": 339,
+      "total_stars": 59682,
+      "health_grade": "B+",
+      "language": "Python",
+      "description": "Financial data platform for analysts, quants and AI agents.",
+      "spike_info": {
+        "date": "2026-01-28",
+        "gain": 95,
+        "multiplier": 0.6
+      }
+    },
+    {
+      "name": "godotengine/godot",
+      "url": "https://github.com/godotengine/godot",
+      "pattern": "fast",
+      "weekly_gain": 339,
+      "total_stars": 106184,
+      "health_grade": "B",
+      "language": "C++",
+      "description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine",
+      "spike_info": {
+        "date": "2026-01-29",
+        "gain": 74,
+        "multiplier": 1.4
+      }
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "pattern": "fast",
+      "weekly_gain": 338,
+      "total_stars": 336567,
+      "health_grade": "C+",
+      "language": "\u2014",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "spike_info": {
+        "date": "2026-02-01",
+        "gain": 129,
+        "multiplier": 3.5
+      }
+    },
+    {
+      "name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "pattern": "fast",
+      "weekly_gain": 334,
+      "total_stars": 84124,
+      "health_grade": "A-",
+      "language": "Jupyter Notebook",
+      "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "spike_info": {
+        "date": "2026-01-27",
+        "gain": 79,
+        "multiplier": 0.8
+      }
+    },
+    {
+      "name": "langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "pattern": "fast",
+      "weekly_gain": 313,
+      "total_stars": 24061,
+      "health_grade": "B",
+      "language": "Python",
+      "description": "Build resilient language agents as graphs.",
+      "spike_info": {
+        "date": "2026-01-28",
+        "gain": 65,
+        "multiplier": 1.4
+      }
+    },
+    {
+      "name": "yangshun/tech-interview-handbook",
+      "url": "https://github.com/yangshun/tech-interview-handbook",
+      "pattern": "fast",
+      "weekly_gain": 311,
+      "total_stars": 137311,
+      "health_grade": "B+",
+      "language": "TypeScript",
+      "description": "Curated coding interview preparation materials for busy software engineers",
+      "spike_info": {
+        "date": "2026-01-29",
+        "gain": 81,
+        "multiplier": 3.7
+      }
+    }
+  ],
+  "health_scores": [
+    {
+      "name": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "score": 98.0,
+      "grade": "A+",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 90,
+        "engagement": 100,
+        "issues": 100,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 153684,
+      "language": "Java"
+    },
+    {
+      "name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "score": 97.0,
+      "grade": "A+",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 100,
+        "engagement": 100,
+        "issues": 90,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 45169,
+      "language": "Python"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "score": 94.8,
+      "grade": "A",
+      "breakdown": {
+        "activity": 90,
+        "popularity": 100,
+        "engagement": 100,
+        "issues": 100,
+        "quality": 85
+      },
+      "penalties": [],
+      "stars": 105927,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 94.0,
+      "grade": "A",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 100,
+        "engagement": 85,
+        "issues": 90,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 181595,
+      "language": "Python"
+    },
+    {
+      "name": "jeecgboot/JeecgBoot",
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "score": 94.0,
+      "grade": "A",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 70,
+        "engagement": 100,
+        "issues": 100,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 45141,
+      "language": "Java"
+    },
+    {
+      "name": "macrozheng/mall",
+      "url": "https://github.com/macrozheng/mall",
+      "score": 93.0,
+      "grade": "A",
+      "breakdown": {
+        "activity": 90,
+        "popularity": 80,
+        "engagement": 100,
+        "issues": 100,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 82827,
+      "language": "Java"
+    },
+    {
+      "name": "firstcontributions/first-contributions",
+      "url": "https://github.com/firstcontributions/first-contributions",
+      "score": 92.5,
+      "grade": "A",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 70,
+        "engagement": 100,
+        "issues": 90,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 52459,
+      "language": "\u2014"
+    },
+    {
+      "name": "anuraghazra/github-readme-stats",
+      "url": "https://github.com/anuraghazra/github-readme-stats",
+      "score": 92.2,
+      "grade": "A",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 80,
+        "engagement": 100,
+        "issues": 75,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 78165,
+      "language": "JavaScript"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 90.5,
+      "grade": "A",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 90,
+        "engagement": 100,
+        "issues": 60,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 172359,
+      "language": "TypeScript"
+    },
+    {
+      "name": "facebook/react",
+      "url": "https://github.com/facebook/react",
+      "score": 89.8,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 90,
+        "engagement": 85,
+        "issues": 75,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 242669,
+      "language": "JavaScript"
+    },
+    {
+      "name": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 89.5,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 100,
+        "engagement": 55,
+        "issues": 100,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 144169,
+      "language": "TypeScript"
+    },
+    {
+      "name": "flipped-aurora/gin-vue-admin",
+      "url": "https://github.com/flipped-aurora/gin-vue-admin",
+      "score": 89.5,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 70,
+        "engagement": 85,
+        "issues": 90,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 24276,
+      "language": "Go"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "url": "https://github.com/kamranahmedse/developer-roadmap",
+      "score": 89.5,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 100,
+        "engagement": 55,
+        "issues": 100,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 348365,
+      "language": "TypeScript"
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "score": 89.2,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 80,
+        "engagement": 85,
+        "issues": 100,
+        "quality": 75
+      },
+      "penalties": [],
+      "stars": 45141,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "twbs/bootstrap",
+      "url": "https://github.com/twbs/bootstrap",
+      "score": 89.2,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 90,
+        "popularity": 80,
+        "engagement": 100,
+        "issues": 75,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 173975,
+      "language": "MDX"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "score": 89.0,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 90,
+        "engagement": 70,
+        "issues": 100,
+        "quality": 80
+      },
+      "penalties": [],
+      "stars": 381516,
+      "language": "Python"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "score": 89.0,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 90,
+        "engagement": 100,
+        "issues": 40,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 193572,
+      "language": "C++"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "score": 88.8,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 100,
+        "engagement": 70,
+        "issues": 75,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 125570,
+      "language": "Python"
+    },
+    {
+      "name": "ComposioHQ/composio",
+      "url": "https://github.com/ComposioHQ/composio",
+      "score": 88.5,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 80,
+        "engagement": 70,
+        "issues": 90,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 26468,
+      "language": "TypeScript"
+    },
+    {
+      "name": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "score": 88.2,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 90,
+        "engagement": 70,
+        "issues": 75,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 27608,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "score": 88.0,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 100,
+        "engagement": 40,
+        "issues": 100,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 436579,
+      "language": "TypeScript"
+    },
+    {
+      "name": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "score": 87.5,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 90,
+        "popularity": 90,
+        "engagement": 70,
+        "issues": 100,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 84124,
+      "language": "Jupyter Notebook"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "score": 87.5,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 90,
+        "engagement": 55,
+        "issues": 100,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 106661,
+      "language": "Rust"
+    },
+    {
+      "name": "spring-projects/spring-boot",
+      "url": "https://github.com/spring-projects/spring-boot",
+      "score": 87.2,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 70,
+        "engagement": 100,
+        "issues": 60,
+        "quality": 95
+      },
+      "penalties": [],
+      "stars": 79813,
+      "language": "Java"
+    },
+    {
+      "name": "ant-design/ant-design",
+      "url": "https://github.com/ant-design/ant-design",
+      "score": 87.0,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 80,
+        "engagement": 100,
+        "issues": 40,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 97389,
+      "language": "TypeScript"
+    },
+    {
+      "name": "facebook/react-native",
+      "url": "https://github.com/facebook/react-native",
+      "score": 87.0,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 80,
+        "engagement": 85,
+        "issues": 60,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 125244,
+      "language": "C++"
+    },
+    {
+      "name": "mui/material-ui",
+      "url": "https://github.com/mui/material-ui",
+      "score": 87.0,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 80,
+        "engagement": 100,
+        "issues": 40,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 97737,
+      "language": "JavaScript"
+    },
+    {
+      "name": "zhayujie/chatgpt-on-wechat",
+      "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+      "score": 87.0,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 80,
+        "engagement": 85,
+        "issues": 60,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 40894,
+      "language": "Python"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "score": 86.8,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 90,
+        "popularity": 90,
+        "engagement": 85,
+        "issues": 75,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 217370,
+      "language": "Python"
+    },
+    {
+      "name": "bitcoin/bitcoin",
+      "url": "https://github.com/bitcoin/bitcoin",
+      "score": 86.5,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 70,
+        "engagement": 100,
+        "issues": 60,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 87843,
+      "language": "C++"
+    },
+    {
+      "name": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 86.5,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 100,
+        "engagement": 70,
+        "issues": 60,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 128261,
+      "language": "TypeScript"
+    },
+    {
+      "name": "mrdoob/three.js",
+      "url": "https://github.com/mrdoob/three.js",
+      "score": 86.5,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 70,
+        "engagement": 100,
+        "issues": 60,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 110660,
+      "language": "JavaScript"
+    },
+    {
+      "name": "mmistakes/minimal-mistakes",
+      "url": "https://github.com/mmistakes/minimal-mistakes",
+      "score": 86.2,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 50,
+        "engagement": 100,
+        "issues": 75,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 13385,
+      "language": "HTML"
+    },
+    {
+      "name": "nvim-lua/kickstart.nvim",
+      "url": "https://github.com/nvim-lua/kickstart.nvim",
+      "score": 86.2,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 90,
+        "popularity": 80,
+        "engagement": 100,
+        "issues": 90,
+        "quality": 65
+      },
+      "penalties": [],
+      "stars": 29250,
+      "language": "Lua"
+    },
+    {
+      "name": "danielmiessler/Fabric",
+      "url": "https://github.com/danielmiessler/Fabric",
+      "score": 86.0,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 90,
+        "engagement": 40,
+        "issues": 100,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 38731,
+      "language": "Go"
+    },
+    {
+      "name": "eugenp/tutorials",
+      "url": "https://github.com/eugenp/tutorials",
+      "score": 86.0,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 60,
+        "engagement": 100,
+        "issues": 90,
+        "quality": 70
+      },
+      "penalties": [],
+      "stars": 37340,
+      "language": "Java"
+    },
+    {
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "score": 86.0,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 90,
+        "engagement": 85,
+        "issues": 40,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 155992,
+      "language": "Python"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 85.8,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 100,
+        "engagement": 55,
+        "issues": 75,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 122512,
+      "language": "Python"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "score": 85.8,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 80,
+        "popularity": 100,
+        "engagement": 85,
+        "issues": 90,
+        "quality": 75
+      },
+      "penalties": [],
+      "stars": 112365,
+      "language": "\u2014"
+    },
+    {
+      "name": "2dust/v2rayN",
+      "url": "https://github.com/2dust/v2rayN",
+      "score": 85.5,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 80,
+        "engagement": 55,
+        "issues": 100,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 95894,
+      "language": "C#"
+    },
+    {
+      "name": "crewAIInc/crewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "score": 85.2,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 90,
+        "engagement": 55,
+        "issues": 75,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 43428,
+      "language": "Python"
+    },
+    {
+      "name": "clash-verge-rev/clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "score": 85.0,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 100,
+        "engagement": 40,
+        "issues": 90,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 95237,
+      "language": "TypeScript"
+    },
+    {
+      "name": "django/django",
+      "url": "https://github.com/django/django",
+      "score": 85.0,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 70,
+        "engagement": 100,
+        "issues": 40,
+        "quality": 100
+      },
+      "penalties": [],
+      "stars": 86634,
+      "language": "Python"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "score": 85.0,
+      "grade": "A-",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 100,
+        "engagement": 40,
+        "issues": 90,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 78756,
+      "language": "TypeScript"
+    },
+    {
+      "name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "score": 84.8,
+      "grade": "B+",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 80,
+        "engagement": 55,
+        "issues": 100,
+        "quality": 85
+      },
+      "penalties": [],
+      "stars": 104057,
+      "language": "Go"
+    },
+    {
+      "name": "microsoft/Web-Dev-For-Beginners",
+      "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+      "score": 84.8,
+      "grade": "B+",
+      "breakdown": {
+        "activity": 90,
+        "popularity": 80,
+        "engagement": 70,
+        "issues": 100,
+        "quality": 85
+      },
+      "penalties": [],
+      "stars": 95203,
+      "language": "JavaScript"
+    },
+    {
+      "name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "score": 84.5,
+      "grade": "B+",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 90,
+        "engagement": 85,
+        "issues": 40,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 71756,
+      "language": "TypeScript"
+    },
+    {
+      "name": "massgravel/Microsoft-Activation-Scripts",
+      "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+      "score": 84.5,
+      "grade": "B+",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 90,
+        "engagement": 40,
+        "issues": 100,
+        "quality": 90
+      },
+      "penalties": [],
+      "stars": 164407,
+      "language": "Batchfile"
+    },
+    {
+      "name": "adenhq/hive",
+      "url": "https://github.com/adenhq/hive",
+      "score": 84.2,
+      "grade": "B+",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 100,
+        "engagement": 100,
+        "issues": 10,
+        "quality": 85
+      },
+      "penalties": [],
+      "stars": 4259,
+      "language": "Python"
+    },
+    {
+      "name": "spring-projects/spring-framework",
+      "url": "https://github.com/spring-projects/spring-framework",
+      "score": 84.2,
+      "grade": "B+",
+      "breakdown": {
+        "activity": 100,
+        "popularity": 70,
+        "engagement": 100,
+        "issues": 60,
+        "quality": 75
+      },
+      "penalties": [],
+      "stars": 59569,
+      "language": "Java"
+    }
+  ],
+  "organizations": [
+    {
+      "org": "microsoft",
+      "repo_count": 11,
+      "total_stars": 859168,
+      "total_forks": 163508,
+      "avg_stars": 78106,
+      "avg_health": 77.2,
+      "top_language": "TypeScript",
+      "top_repo": "microsoft/AI-For-Beginners"
+    },
+    {
+      "org": "facebook",
+      "repo_count": 3,
+      "total_stars": 471877,
+      "total_forks": 102692,
+      "avg_stars": 157292,
+      "avg_health": 76.4,
+      "top_language": "JavaScript",
+      "top_repo": "facebook/create-react-app"
+    },
+    {
+      "org": "codecrafters-io",
+      "repo_count": 1,
+      "total_stars": 462512,
+      "total_forks": 43444,
+      "avg_stars": 462512,
+      "avg_health": 54.4,
+      "top_language": "Markdown",
+      "top_repo": "codecrafters-io/build-your-own-x"
+    },
+    {
+      "org": "sindresorhus",
+      "repo_count": 2,
+      "total_stars": 438848,
+      "total_forks": 33449,
+      "avg_stars": 219424,
+      "avg_health": 69.5,
+      "top_language": "JavaScript",
+      "top_repo": "sindresorhus/awesome"
+    },
+    {
+      "org": "freeCodeCamp",
+      "repo_count": 1,
+      "total_stars": 436579,
+      "total_forks": 43260,
+      "avg_stars": 436579,
+      "avg_health": 88.0,
+      "top_language": "TypeScript",
+      "top_repo": "freeCodeCamp/freeCodeCamp"
+    },
+    {
+      "org": "public-apis",
+      "repo_count": 1,
+      "total_stars": 394548,
+      "total_forks": 42226,
+      "avg_stars": 394548,
+      "avg_health": 69.2,
+      "top_language": "Python",
+      "top_repo": "public-apis/public-apis"
+    },
+    {
+      "org": "EbookFoundation",
+      "repo_count": 1,
+      "total_stars": 381516,
+      "total_forks": 65819,
+      "avg_stars": 381516,
+      "avg_health": 89.0,
+      "top_language": "Python",
+      "top_repo": "EbookFoundation/free-programming-books"
+    },
+    {
+      "org": "kamranahmedse",
+      "repo_count": 1,
+      "total_stars": 348365,
+      "total_forks": 43696,
+      "avg_stars": 348365,
+      "avg_health": 89.5,
+      "top_language": "TypeScript",
+      "top_repo": "kamranahmedse/developer-roadmap"
+    },
+    {
+      "org": "jwasham",
+      "repo_count": 1,
+      "total_stars": 336567,
+      "total_forks": 81615,
+      "avg_stars": 336567,
+      "avg_health": 68.8,
+      "top_language": "N/A",
+      "top_repo": "jwasham/coding-interview-university"
+    },
+    {
+      "org": "donnemartin",
+      "repo_count": 1,
+      "total_stars": 333989,
+      "total_forks": 54260,
+      "avg_stars": 333989,
+      "avg_health": 72.2,
+      "top_language": "Python",
+      "top_repo": "donnemartin/system-design-primer"
+    },
+    {
+      "org": "vinta",
+      "repo_count": 1,
+      "total_stars": 280831,
+      "total_forks": 27164,
+      "avg_stars": 280831,
+      "avg_health": 75.5,
+      "top_language": "Python",
+      "top_repo": "vinta/awesome-python"
+    },
+    {
+      "org": "996icu",
+      "repo_count": 1,
+      "total_stars": 275398,
+      "total_forks": 20981,
+      "avg_stars": 275398,
+      "avg_health": 52.0,
+      "top_language": "N/A",
+      "top_repo": "996icu/996.ICU"
+    },
+    {
+      "org": "tensorflow",
+      "repo_count": 2,
+      "total_stars": 271258,
+      "total_forks": 120525,
+      "avg_stars": 135629,
+      "avg_health": 82.4,
+      "top_language": "Python",
+      "top_repo": "tensorflow/models"
+    },
+    {
+      "org": "awesome-selfhosted",
+      "repo_count": 1,
+      "total_stars": 270976,
+      "total_forks": 12343,
+      "avg_stars": 270976,
+      "avg_health": 78.5,
+      "top_language": "N/A",
+      "top_repo": "awesome-selfhosted/awesome-selfhosted"
+    },
+    {
+      "org": "github",
+      "repo_count": 3,
+      "total_stars": 257595,
+      "total_forks": 154426,
+      "avg_stars": 85865,
+      "avg_health": 72.8,
+      "top_language": "TypeScript",
+      "top_repo": "github/docs"
+    },
+    {
+      "org": "practical-tutorials",
+      "repo_count": 1,
+      "total_stars": 257262,
+      "total_forks": 33569,
+      "avg_stars": 257262,
+      "avg_health": 55.2,
+      "top_language": "N/A",
+      "top_repo": "practical-tutorials/project-based-learning"
+    },
+    {
+      "org": "TheAlgorithms",
+      "repo_count": 1,
+      "total_stars": 217370,
+      "total_forks": 50020,
+      "avg_stars": 217370,
+      "avg_health": 86.8,
+      "top_language": "Python",
+      "top_repo": "TheAlgorithms/Python"
+    },
+    {
+      "org": "torvalds",
+      "repo_count": 1,
+      "total_stars": 215917,
+      "total_forks": 60223,
+      "avg_stars": 215917,
+      "avg_health": 75.8,
+      "top_language": "C",
+      "top_repo": "torvalds/linux"
+    },
+    {
+      "org": "vuejs",
+      "repo_count": 1,
+      "total_stars": 209900,
+      "total_forks": 33896,
+      "avg_stars": 209900,
+      "avg_health": 57.0,
+      "top_language": "TypeScript",
+      "top_repo": "vuejs/vue"
+    },
+    {
+      "org": "trimstray",
+      "repo_count": 1,
+      "total_stars": 204450,
+      "total_forks": 12361,
+      "avg_stars": 204450,
+      "avg_health": 46.2,
+      "top_language": "N/A",
+      "top_repo": "trimstray/the-book-of-secret-knowledge"
+    },
+    {
+      "org": "ossu",
+      "repo_count": 1,
+      "total_stars": 200854,
+      "total_forks": 24989,
+      "avg_stars": 200854,
+      "avg_health": 73.5,
+      "top_language": "HTML",
+      "top_repo": "ossu/computer-science"
+    },
+    {
+      "org": "trekhleb",
+      "repo_count": 1,
+      "total_stars": 195454,
+      "total_forks": 31122,
+      "avg_stars": 195454,
+      "avg_health": 77.8,
+      "top_language": "JavaScript",
+      "top_repo": "trekhleb/javascript-algorithms"
+    },
+    {
+      "org": "ohmyzsh",
+      "repo_count": 1,
+      "total_stars": 184392,
+      "total_forks": 26291,
+      "avg_stars": 184392,
+      "avg_health": 80.2,
+      "top_language": "Shell",
+      "top_repo": "ohmyzsh/ohmyzsh"
+    },
+    {
+      "org": "getify",
+      "repo_count": 1,
+      "total_stars": 184351,
+      "total_forks": 33666,
+      "avg_stars": 184351,
+      "avg_health": 82.5,
+      "top_language": "N/A",
+      "top_repo": "getify/You-Dont-Know-JS"
+    },
+    {
+      "org": "CyC2018",
+      "repo_count": 1,
+      "total_stars": 183572,
+      "total_forks": 51231,
+      "avg_stars": 183572,
+      "avg_health": 48.9,
+      "top_language": "N/A",
+      "top_repo": "CyC2018/CS-Notes"
+    },
+    {
+      "org": "Significant-Gravitas",
+      "repo_count": 1,
+      "total_stars": 181595,
+      "total_forks": 46293,
+      "avg_stars": 181595,
+      "avg_health": 94.0,
+      "top_language": "Python",
+      "top_repo": "Significant-Gravitas/AutoGPT"
+    },
+    {
+      "org": "jackfrued",
+      "repo_count": 1,
+      "total_stars": 178310,
+      "total_forks": 55365,
+      "avg_stars": 178310,
+      "avg_health": 59.1,
+      "top_language": "Jupyter Notebook",
+      "top_repo": "jackfrued/Python-100-Days"
+    },
+    {
+      "org": "huggingface",
+      "repo_count": 2,
+      "total_stars": 177143,
+      "total_forks": 35005,
+      "avg_stars": 88571,
+      "avg_health": 78.9,
+      "top_language": "Python",
+      "top_repo": "huggingface/datasets"
+    },
+    {
+      "org": "flutter",
+      "repo_count": 1,
+      "total_stars": 174898,
+      "total_forks": 29900,
+      "avg_stars": 174898,
+      "avg_health": 76.5,
+      "top_language": "Dart",
+      "top_repo": "flutter/flutter"
+    },
+    {
+      "org": "twbs",
+      "repo_count": 1,
+      "total_stars": 173975,
+      "total_forks": 79139,
+      "avg_stars": 173975,
+      "avg_health": 89.2,
+      "top_language": "MDX",
+      "top_repo": "twbs/bootstrap"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Python",
+      "repo_count": 106,
+      "percentage": 27.2,
+      "total_stars": 5229946,
+      "avg_stars": 49339
+    },
+    {
+      "language": "TypeScript",
+      "repo_count": 62,
+      "percentage": 15.9,
+      "total_stars": 3850751,
+      "avg_stars": 62108
+    },
+    {
+      "language": "JavaScript",
+      "repo_count": 47,
+      "percentage": 12.1,
+      "total_stars": 2132546,
+      "avg_stars": 45373
+    },
+    {
+      "language": "Go",
+      "repo_count": 22,
+      "percentage": 5.7,
+      "total_stars": 1107190,
+      "avg_stars": 50326
+    },
+    {
+      "language": "Java",
+      "repo_count": 21,
+      "percentage": 5.4,
+      "total_stars": 1074743,
+      "avg_stars": 51178
+    },
+    {
+      "language": "HTML",
+      "repo_count": 21,
+      "percentage": 5.4,
+      "total_stars": 534412,
+      "avg_stars": 25448
+    },
+    {
+      "language": "Jupyter Notebook",
+      "repo_count": 17,
+      "percentage": 4.4,
+      "total_stars": 588240,
+      "avg_stars": 34602
+    },
+    {
+      "language": "C++",
+      "repo_count": 13,
+      "percentage": 3.3,
+      "total_stars": 951151,
+      "avg_stars": 73165
+    },
+    {
+      "language": "C",
+      "repo_count": 11,
+      "percentage": 2.8,
+      "total_stars": 552623,
+      "avg_stars": 50238
+    },
+    {
+      "language": "Rust",
+      "repo_count": 11,
+      "percentage": 2.8,
+      "total_stars": 635677,
+      "avg_stars": 57788
+    },
+    {
+      "language": "C#",
+      "repo_count": 9,
+      "percentage": 2.3,
+      "total_stars": 353059,
+      "avg_stars": 39228
+    },
+    {
+      "language": "CSS",
+      "repo_count": 8,
+      "percentage": 2.1,
+      "total_stars": 18151,
+      "avg_stars": 2268
+    },
+    {
+      "language": "Shell",
+      "repo_count": 7,
+      "percentage": 1.8,
+      "total_stars": 432313,
+      "avg_stars": 61759
+    },
+    {
+      "language": "PHP",
+      "repo_count": 3,
+      "percentage": 0.8,
+      "total_stars": 13960,
+      "avg_stars": 4653
+    },
+    {
+      "language": "Ruby",
+      "repo_count": 3,
+      "percentage": 0.8,
+      "total_stars": 3551,
+      "avg_stars": 1183
+    },
+    {
+      "language": "Scala",
+      "repo_count": 3,
+      "percentage": 0.8,
+      "total_stars": 57339,
+      "avg_stars": 19113
+    },
+    {
+      "language": "Markdown",
+      "repo_count": 3,
+      "percentage": 0.8,
+      "total_stars": 655985,
+      "avg_stars": 218661
+    },
+    {
+      "language": "Dockerfile",
+      "repo_count": 2,
+      "percentage": 0.5,
+      "total_stars": 202587,
+      "avg_stars": 101293
+    },
+    {
+      "language": "Lua",
+      "repo_count": 2,
+      "percentage": 0.5,
+      "total_stars": 71895,
+      "avg_stars": 35947
+    },
+    {
+      "language": "Vue",
+      "repo_count": 2,
+      "percentage": 0.5,
+      "total_stars": 90586,
+      "avg_stars": 45293
+    }
+  ]
+}
